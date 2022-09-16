@@ -31,7 +31,7 @@ import { TarefaModule } from './tarefa/modules/tarefa.module';
       synchronize: true,
       autoLoadEntities: true
     }), 
-    
+
     TarefaModule,
     CategoriaModule
   ],
